@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "211764176634",
+    "firebase_url": "https://cmpe425finalproject.firebaseio.com",
+    "project_id": "cmpe425finalproject",
+    "storage_bucket": "cmpe425finalproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211764176634:android:839cd954b227a81d",
+        "android_client_info": {
+          "package_name": "com.example.emre.bloodbankcyprus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211764176634-o6jg0dsj9qb5niat3ltrtshd7qdpriqd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.emre.bloodbankcyprus",
+            "certificate_hash": "9e2515cb97bab823316763cba82125a534ae8ebd"
+          }
+        },
+        {
+          "client_id": "211764176634-nle9j19dfho29o5986cahn21ablo42un.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "211764176634-nle9j19dfho29o5986cahn21ablo42un.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmDPmGrQi1zlJY7zND83br8e3TksHuKoo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211764176634-nle9j19dfho29o5986cahn21ablo42un.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211764176634:android:1339c39e767017fb",
+        "android_client_info": {
+          "package_name": "com.example.emre.cmpe425finalproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211764176634-3r3e0hc80m341c9c5oass93etkilgls9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.emre.cmpe425finalproject",
+            "certificate_hash": "9e2515cb97bab823316763cba82125a534ae8ebd"
+          }
+        },
+        {
+          "client_id": "211764176634-nle9j19dfho29o5986cahn21ablo42un.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "211764176634-nle9j19dfho29o5986cahn21ablo42un.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmDPmGrQi1zlJY7zND83br8e3TksHuKoo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211764176634-nle9j19dfho29o5986cahn21ablo42un.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
